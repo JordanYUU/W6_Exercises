@@ -1,5 +1,5 @@
-name1 = 'Rowa Itaa'
+name = 'Rowa Itaa'
 
-print(name1.find(' '))
+print(name.find(' '))
 
 print(name)
