@@ -42,4 +42,4 @@ bb_rst.rest_desc()
 bb_rst.rest_open()
 
 cp_rst.rest_desc()
-cp_rst.rest_open()
+_rst.rest_open()
